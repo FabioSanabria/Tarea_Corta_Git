@@ -2,3 +2,5 @@
 Estudiantes: Edward Tavares, Fabio Sanabria
 
 Profesor: Luis Diego Mora Jiménez y Braulio José Solano Rojas
+
+Tarea corta de arboles bianrios y polimorfismo

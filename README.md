@@ -1,5 +1,5 @@
 # Tarea_Corta_Git
-Estudiante: Fabio Sanabria
+Estudiante: Fabio Andrés Sanabria Valerín C07194
 
 Profesor: Luis Diego Mora Jiménez y Braulio José Solano Rojas
 
